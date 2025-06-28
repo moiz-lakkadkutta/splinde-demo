@@ -14,8 +14,8 @@ A fullstack TypeScript application for displaying and editing hierarchical finan
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd splineded
+   git clone https://github.com/moiz-lakkadkutta/splinde-demo.git
+   cd splinde-demo
    ```
 
 2. **Install dependencies**
@@ -38,8 +38,8 @@ A fullstack TypeScript application for displaying and editing hierarchical finan
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd splineded
+   git clone https://github.com/moiz-lakkadkutta/splinde-demo.git
+   cd splinde-demo
    ```
 
 2. **Start with Docker Compose**
@@ -83,7 +83,7 @@ splineded/
 - ✅ **Backend API endpoint** serving demo data
 - ✅ **Computed sums** calculation for sections and total sum
 - ✅ **Frontend rendering** of sections with computed sums
-- ✅ **Editable entry sums** (onBlur) with real-time sum updates
+- ✅ **Editable entry sums** with real-time sum updates
 - ✅ **Editable notes** for all entries
 
 ### Optional Features ✅
@@ -173,5 +173,4 @@ The application is containerized and ready for deployment:
 
 ---
 
-**Time Investment**: ~3 hours as requested
 **Focus Areas**: Clean architecture, TypeScript safety, modern UI/UX, and comprehensive feature implementation. 
