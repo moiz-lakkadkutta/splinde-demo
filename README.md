@@ -14,8 +14,8 @@ A professional, fullstack TypeScript application for displaying and editing hier
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd splineded
+   git clone https://github.com/moiz-lakkadkutta/splinde-demo.git
+   cd splinde-demo
    ```
 
 2. **Install dependencies**
@@ -38,8 +38,8 @@ A professional, fullstack TypeScript application for displaying and editing hier
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd splineded
+   git clone https://github.com/moiz-lakkadkutta/splinde-demo.git
+   cd splinde-demo
    ```
 
 2. **Start with Docker Compose**
